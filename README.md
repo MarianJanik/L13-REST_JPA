@@ -1,6 +1,6 @@
 ### Krátké info ke 3 úkolům:
 - tento úkol jsem si navrhl, abych se naučil pracovat s databázi pomocí: JDBC, MyBatis a JPA,
-- je to první ze tří úkolu,
+- je to třetí ze tří úkolu,
 - v MySQL jsem si vytvořil databázi - tabulku filmů Movie,
 - pak pomocí JAVY jsem se spojil s databázi a vystavil REST API,
 - frontend jsem nahrazoval Postmanem.
