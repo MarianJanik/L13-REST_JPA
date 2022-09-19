@@ -1,4 +1,4 @@
-package cz.marianjanik.L13REST_JPA;
+package cz.marianjanik.l13restjpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

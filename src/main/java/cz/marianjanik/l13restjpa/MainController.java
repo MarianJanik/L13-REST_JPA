@@ -1,4 +1,4 @@
-package cz.marianjanik.L13REST_JPA;
+package cz.marianjanik.l13restjpa;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

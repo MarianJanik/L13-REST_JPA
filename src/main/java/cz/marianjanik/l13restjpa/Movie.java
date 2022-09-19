@@ -1,4 +1,4 @@
-package cz.marianjanik.L13REST_JPA;
+package cz.marianjanik.l13restjpa;
 
 import javax.persistence.*;
 
